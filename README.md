@@ -7,5 +7,5 @@ This is a contribution from my experience as a programmer that started in 2003. 
 
 # Intro Videos
 ## Siraj Raval
-* (How to Make a Prediction - Intro to Deep Learning 1)[https://www.youtube.com/watch?v=vOppzHpvTiQ]
-* (How to Make a Neural Network - Intro to Deep Learning 2)[https://www.youtube.com/watch?v=p69khggr1Jo]
+* [How to Make a Prediction - Intro to Deep Learning 1](https://www.youtube.com/watch?v=vOppzHpvTiQ)
+* [How to Make a Neural Network - Intro to Deep Learning 2](https://www.youtube.com/watch?v=p69khggr1Jo)
