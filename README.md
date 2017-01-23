@@ -4,6 +4,8 @@ Este es un aporte desde mi experiencia como programador que inicia en el año 20
 This is a contribution from my experience as a programmer that started in 2003. I intend to set up a kind of study guide where I will publish the advances that I am having in Machine Learning and Artificial Intelligence. All the collaborations to contribute are welcome.
 
 ---
+## Intro texts
+[Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.gome4aeut)
 
 # Intro Videos
 ## Siraj Raval
