@@ -33,6 +33,10 @@ En esta lección se ven los efectos de aplicar deeplearning. En el primer ejempl
 - le instalamos tensorflow **_conda install -c conda-forge tensorflow=0.12.1_**
 - le instalamos scipy pillow **_conda install scipy pillow_**
 
+### Ejercicios.
+- Mediante una regresión lineal, predecimos el peso de un animal, dependiendo del peso de su cerebro.
+- Mediante una regresión lineal, predecimos la expectativa de vida de una persona, basada en su Indice de Masa Corporal al momento del nacimiento.
+- Mediante regresión lineal multivariable, predecimos el valor de una casa, teniendo en cuenta las caracteristicas/valores de un set de datos de casas de Boston.
 
 
 ## Intro texts
