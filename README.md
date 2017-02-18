@@ -21,6 +21,7 @@ Son files que contienen texto, bloques de programación, visualización y se mue
 - [Anaconda](https://www.continuum.io/downloads)
 - [Conda Documentation](https://conda.io/docs/using/index.html)
 - [Jupyter](http://jupyter.org/)
+- [Jupyter Documentation](https://jupyter.readthedocs.io/en/latest/index.html)
 
 ---
 
