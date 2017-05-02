@@ -48,6 +48,8 @@ En esta lección se ven los efectos de aplicar deeplearning. En el primer ejempl
 - Scikit-learn - a comprehensive library for Machine Learning in Python. [Scikit-Learn's official tutorial.](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - Matplotlib - a library for plotting and visualizing graphs in Python. [Matplotlib's official tutorial.](http://matplotlib.org/users/pyplot_tutorial.html)
 
+### How to Do Linear Regression using Gradient Descent
+[VIDEO](https://www.youtube.com/watch?v=XdM6ER7zTLk)
 
 ## Intro texts
 [Machine Learning is Fun! The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.gome4aeut)
