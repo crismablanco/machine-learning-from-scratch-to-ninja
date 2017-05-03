@@ -12,3 +12,5 @@ Lo primero fue la bienvenida... Presentaciones y demás menesteres. Pero rápida
 - Prerequisites
 - Community Support (forum and slack)
 - Deadline policy
+
+by [Cristian Blanco](https://www.linkedin.com/in/crismablanco/)
