@@ -12,8 +12,10 @@ Es un entorno de desarrollo (especial para data science), que se utiliza para ma
 - PARA VER LOS ENVIRONMENTS: conda info --envs 
 - PARA INSTALAR PAQUETES: conda install pandas matplotlib scikit-learn
 
-### the mosts important topics for this lesson:
+### The most important topics for this lesson:
 - What is Anaconda
 - Installing Anaconda
 - Managing Packages and environments
 - Best practices
+
+by [Cristian Blanco](https://www.linkedin.com/in/crismablanco/)
