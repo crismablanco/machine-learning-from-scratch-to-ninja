@@ -10,11 +10,31 @@ While the neural network get more training, it modify the values of the weights.
 
 Then I encourage you to learn more about **weights, summation and activation functions, [Heavyside step function] (https://en.wikipedia.org/wiki/Heaviside_step_function), bias**
 
+We have been learning about different perceptrons:
+- AND
+- OR
+- NOT
+- XOR
+
+### The simplest neural network:
+- The **X1** and **X2** are the "official" inputs. **X3** is 1.
+- The **W1** and **W2** are the respectives weights. The **W3** is the *bias* 
+- The summation (untill now, a perceptron) works as my *hidden layer* of my neural network. 
+- The **Y** is the output. But before generates the output, the input received pass through an *activation function* (example: sigmoid function).
+- Finally the output.
+
+![the simple neural network](http://3.bp.blogspot.com/-7RWgohC4pYE/VhtQ8IELsLI/AAAAAAAAA6I/_XFhMbjpcCY/s1600/Simple%2BNeural%2BNetwork.png)
+
+
 
 ### The most important topics for this lesson:
 - Logistic Regression
 - Neural network
 - The preceptron
+- Weights, Activation Function, Bias
+- Sum of the squared errors (SSE)
+- Mean Square Error (MSE)
 - Gradient Descent
+- Local minima
 - Multilayer Preceptron
 - BackPropagation
